@@ -1,6 +1,0 @@
-www.google-analytics.com:HSTS	0	17876	1555437120271,1,1
-www.mozilla.org:HSTS	0	17876	1576086719016,1,0
-shavar.services.mozilla.com:HSTS	0	17876	1576086726017,1,1
-mozilla.org:HSTS	0	17876	1576086719833,1,0
-aus5.mozilla.org:HSTS	0	17876	1576086778923,1,0
-accounts.firefox.com:HSTS	0	17876	1560102742150,1,1
